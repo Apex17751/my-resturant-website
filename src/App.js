@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Home from './Home/Home.js'
-import Reality from './Reality/Reality';
 import Footer from './Footer/Footer';
 import Card from './card/card.js'
 import Wash from './wash/wash';
